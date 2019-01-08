@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All about my fourite Indian food</title>
+</head>
+<body> <!–– <p>, , <main>, <article>-->
+
+ <header>
+    <h1 class="heading-text">All about my favourite Indian food</h1>
+ <img src="https://www.tarladalal.com/members/9306/big/big_idli-11576.jpg?size=696X905" alt="Upma" style="width:100%">
+  <figcaption>Idli</figcaption>
+    <p><strong>Rava / Sooji Upma</strong> is the most favourite south Indian breakfast. 
+A huge number of variations of Upma are made with whole or refined ground wheat and rice of varied grain size, vermicelli or wheat semolina. A wide range of vegetables may be added, and may be garnished with a variety of beans (raw or sprouted), cashew and peanuts. For a variation called masala upma (known as ‘Kharabath’ in Karnataka), sambhar masala or garam masala is added along with red chilli powder, instead of green chillies.
+</p>
+    
+ <ul class="navigation">
+     <li><img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-9/htmlcss1-img_logo-shiptoit.png" height="20px;"></li>
+     <li class="active">UPMA</li>
+     <li>IDLI</li>
+     <li>VADA</li>
+     <li>DOSA</li>
+     <li>SAMOSA</li>
+     <li>CHOLE BATHURA</li>
+  </ul>
+
+
+
+    
+</header>
+    <footer>@copyrights belong to samba
+        <h3>Design &amp; Development</h3>
+        <p>Contact me at <a href="mailto:test@test.com">this email</a>.</p>
+        <p>&copy; 2019</p>
+    </footer>
+</body>
+
+</html>
