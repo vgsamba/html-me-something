@@ -1,0 +1,72 @@
+article {
+  #border: 1px solid yellow;
+  margin-top: 100px;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: white;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+head{
+ border: 1px solid red;
+  margin-top: 100px;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: red;
+}
+header {
+  padding: 25px;
+  background-color: #ffa500;
+  text-align: center;
+  min-width: 500px;
+}
+footer{
+  padding: auto;
+  background-color: #ffa500;
+  text-align: center;
+  min-width: 300px;
+  margin-top: 10px;
+}
+h1, h2 {
+    text-align: center;
+  color: brown;
+}
+div.navigation {
+   padding: 25px;
+ }
+section {
+  border: 1px solid white;
+  padding-top: 50px; 25px;
+}
+
+#fig1{
+float:left;
+margin-right:10px;
+}
+#fig2{
+float:right;
+margin-left:10px;
+}
+
+#fig3{
+float:left;
+margin-right:10px;
+}
+#fig4{
+float:right;
+margin-left:10px;
+}
+
+#fig5{
+float:left;
+margin-right:10px;
+}
+#fig6{
+float:right;
+margin-left:10px;
+}
+.clear {
+ clear: both;
+
