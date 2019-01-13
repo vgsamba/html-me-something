@@ -33,7 +33,7 @@ h1, h2 {
     text-align: center;
   color: brown;
 }
-div.navigation {
+#navigationdiv {
    padding: 25px;
  }
 section {
@@ -41,32 +41,20 @@ section {
   padding-top: 50px; 25px;
 }
 
-#fig1{
-float:left;
-margin-right:10px;
-}
-#fig2{
-float:right;
-margin-left:10px;
+.figleft {
+ width:50%;
+ height:400px;
+ float:left;
+ margin-right:10px;
 }
 
-#fig3{
-float:left;
-margin-right:10px;
-}
-#fig4{
-float:right;
-margin-left:10px;
+.figright {
+ width:50%;
+ height:400px;
+ float:right;
+ margin-left:10px;
 }
 
-#fig5{
-float:left;
-margin-right:10px;
-}
-#fig6{
-float:right;
-margin-left:10px;
-}
 .clear {
  clear: both;
-
+}
